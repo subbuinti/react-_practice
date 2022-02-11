@@ -3,7 +3,6 @@ import UserProfile from './components/UserProfile'
 
 import './App.css'
 
-
 const userDetailsList = [
   {
     uniqueNo: 1,
