@@ -1,0 +1,24 @@
+.nav-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+  height: 64px;
+  width: 100%;
+  margin: auto;
+  font-family: "roboto";
+  font-size: 30px;
+  width: 70%;
+}
+.header {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+.count {
+  font-size: 20px;
+}
+
+.cart-icon {
+  width: 35px;
+  height: 35px;
+}

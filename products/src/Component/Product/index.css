@@ -1,0 +1,18 @@
+.heading{
+    width: 320px;
+    height: 110px;
+
+}
+.image-size{
+    height: 300px;
+    width:300px;
+}
+.description{
+    height:100px;
+    overflow: scroll;
+}
+.button-space{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

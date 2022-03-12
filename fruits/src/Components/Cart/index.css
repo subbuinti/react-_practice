@@ -1,0 +1,34 @@
+.cart-heading {
+  font-family: "roboto";
+  color: blue;
+  padding: 15px;
+}
+.heading {
+  font-family: "Roboto";
+  color: violet;
+  padding: 15px;
+}
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1400px;
+  height: 100px;
+  background-color: aliceblue;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 5px;
+}
+.name {
+  font-size: 25px;
+  font-family: "Roboto";
+}
+.image {
+  width: 60px;
+  height: 60px;
+}
+.icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

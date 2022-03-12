@@ -1,0 +1,32 @@
+
+.heading{
+  font-size: 40px;
+  font-family: "roboto";
+  font-weight: 400;
+  text-align: center;
+}
+.container{
+  display :flex;
+  justify-content: space-around;
+}
+.blue-btn{
+  background-color: blue;
+}
+.red-btn{
+  background-color: red;
+}
+.green-btn{
+  background-color: green;
+}
+.black-btn{
+  background-color: black;
+}
+.button{
+  font-size: 25px;
+  width:150px;
+  height:50px;
+  border-color: none;
+  border-radius: 10px;
+  padding:5px;
+  color:white;
+}
